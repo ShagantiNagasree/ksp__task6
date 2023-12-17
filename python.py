@@ -29,3 +29,11 @@ else:
 n=int(input("enter the number for which you want to see  multiplication table : "))  
 for i in range(1,11):
      print(n," * ",i," = ",n*i)  
+
+
+#WHILE LOOP
+n=int(input("enter the number for which you want to see  multiplication table : ")) 
+while(n<=10):
+     print(n," * ",i," = ",n*i) 
+
+
